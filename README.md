@@ -34,7 +34,7 @@ This project extracts stock price and revenue data for **Tesla (TSLA)** and **Ga
 
 ### ✅ Q1: Extract Tesla Stock Data using yfinance
 - Used `yf.Ticker("TSLA")` and reset the index
-- 📸 Screenshot: ![Q1](images/Q1.png)
+- 📸 Screenshot: ![Q1](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/c7a9a02be288b9e850fc9d377119f5ce37e99c38/Q1.png)
 
 ### ✅ Q2: Extract Tesla Revenue via Web Scraping
 - Scraped "Tesla Quarterly Revenue" table from Macrotrends
