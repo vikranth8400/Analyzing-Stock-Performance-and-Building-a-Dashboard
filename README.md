@@ -55,8 +55,7 @@ This project extracts stock price and revenue data for **Tesla (TSLA)** and **Ga
 
 ### ✅ Q6: Visualize GameStop Stock Data
 - Created line graph for GameStop stock trend
-- 📸 Screenshot: ![Q6]([images/Q6.png](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/38a621c124b4b3b342071b77d3f394a89d5740a9/Q6.png))
-
+- 📸 Screenshot: ![Q6](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/5535ff2733869319962a02b2771a6fd56e7309ed/Q6.png)
 ---
 
 ## 🚀 How to Run
