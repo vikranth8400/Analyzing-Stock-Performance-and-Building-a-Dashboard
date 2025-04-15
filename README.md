@@ -38,23 +38,24 @@ This project extracts stock price and revenue data for **Tesla (TSLA)** and **Ga
 
 ### ✅ Q2: Extract Tesla Revenue via Web Scraping
 - Scraped "Tesla Quarterly Revenue" table from Macrotrends
-- 📸 Screenshot: ![Q2](images/Q2.png)
+- 📸 Screenshot: ![Q2](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/38a621c124b4b3b342071b77d3f394a89d5740a9/Q2.png
+)
 
 ### ✅ Q3: Extract GameStop Stock Data using yfinance
 - Used `yf.Ticker("GME")` and reset the index
-- 📸 Screenshot: ![Q3](images/Q3.png)
+- 📸 Screenshot: ![Q3](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/38a621c124b4b3b342071b77d3f394a89d5740a9/Q3.png)
 
 ### ✅ Q4: Extract GameStop Revenue via Web Scraping
 - Scraped "GameStop Quarterly Revenue" table from Macrotrends
-- 📸 Screenshot: ![Q4](images/Q4.png)
+- 📸 Screenshot: ![Q4](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/38a621c124b4b3b342071b77d3f394a89d5740a9/Q4.png)
 
 ### ✅ Q5: Visualize Tesla Stock Data
 - Created line graph for Tesla stock trend
-- 📸 Screenshot: ![Q5](images/Q5.png)
+- 📸 Screenshot: ![Q5]([images/Q5.png](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/38a621c124b4b3b342071b77d3f394a89d5740a9/Q5.png))
 
 ### ✅ Q6: Visualize GameStop Stock Data
 - Created line graph for GameStop stock trend
-- 📸 Screenshot: ![Q6](images/Q6.png)
+- 📸 Screenshot: ![Q6]([images/Q6.png](https://github.com/vikranth8400/Analyzing-Stock-Performance-and-Building-a-Dashboard/blob/38a621c124b4b3b342071b77d3f394a89d5740a9/Q6.png))
 
 ---
 
